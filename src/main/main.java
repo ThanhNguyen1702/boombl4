@@ -17,7 +17,7 @@ public class main {
         
         GamePlatform gamePlatform = new GamePlatform();
         window.add(gamePlatform);
-        window.pack();
+        window.pack(); // set size = platform's size
         
         
         
